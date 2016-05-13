@@ -1,0 +1,58 @@
+{
+	"client": [{
+		"clnt_orgn_id": 37485960,
+		"client_name": "WINCORP INTL INC",
+		"cmsic": 51910200,
+		"description": "ANIMAL FEEDS",
+		"corprevenue": 16999066,
+		"default_pref": "N",
+		"ad_line_1_tx": "10025 NW 116 WAY#14",
+		"ad_line_2_tx": null,
+		"city_nm": "MEDLEY",
+		"state_cd": "09",
+		"latitude": 25.8141,
+		"longitude": -80.3549,
+		"updated_revenue": 0,
+		"updated_cm_sic": 0,
+		"mask_code": "002",
+		"children": [{
+			"cg_id": "1212121",
+			"type": "BCA",
+			"name": "abc",
+			"dba_name": "abc"
+		}, {
+			"cg_id": "1212121",
+			"type": "BCA",
+			"name": "abc",
+			"dba_name": "abc"
+		}]
+	}, {
+		"clnt_orgn_id": 37485960,
+		"client_name": "WINCORP INTL INC",
+		"cmsic": 51910200,
+		"description": "ANIMAL FEEDS",
+		"corprevenue": 16999066,
+		"default_pref": "N",
+		"ad_line_1_tx": "10025 NW 116 WAY#14",
+		"ad_line_2_tx": null,
+		"city_nm": "MEDLEY",
+		"state_cd": "09",
+		"latitude": 25.8141,
+		"longitude": -80.3549,
+		"updated_revenue": 0,
+		"updated_cm_sic": 0,
+		"mask_code": "002",
+		"children": [{
+			"cg_id": "1212121",
+			"type": "BCA",
+			"name": "abc",
+			"dba_name": "abc"
+		}, {
+			"cg_id": "1212121",
+			"type": "BCA",
+			"name": "abc",
+			"dba_name": "abc"
+		}]
+
+	}]
+}
